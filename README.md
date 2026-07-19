@@ -1,63 +1,73 @@
-<!-- Animated header -->
+<!-- THEME-AWARE HERO -->
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:172554,50:2563EB,100:7C3AED&height=160&section=header&text=Sharon%20Joanna&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%E2%80%A2%20Data%20Engineering&descAlignY=59&descSize=17"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:7C3AED&height=160&section=header&text=Sharon%20Joanna&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%E2%80%A2%20Data%20Engineering&descAlignY=59&descSize=17"
+    />
+    <img
+      width="100%"
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:7C3AED&height=160&section=header&text=Sharon%20Joanna&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%E2%80%A2%20Data%20Engineering&descAlignY=59&descSize=17"
+      alt="Sharon Joanna — Data Analytics and Data Engineering"
+    />
+  </picture>
+</p>
+
+<!-- IMMEDIATE CALL TO ACTION -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharonjoanna/">
+    <img
+      src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect with Sharon Joanna on LinkedIn"
+    />
+  </a>
+</p>
+
+<!-- ANIMATED TAGLINE -->
+
 <p align="center">
   <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=180&section=header&text=Sharon%20Joanna&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%E2%80%A2%20Data%20Engineering&descAlignY=56&descSize=18"
-    alt="Sharon Joanna"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&repeat=true&width=720&height=35&lines=Building+reliable+data+products;Transforming+complex+data+into+clear+decisions;Creating+analytics+systems+that+people+can+trust"
+    alt="Professional interests"
   />
 </p>
 
-<div align="center">
+<!-- SHORT PROFESSIONAL BIO -->
 
-### Building reliable data products that turn complex information into useful decisions
+<p align="center">
+  M.S. in Data Science from <strong>The George Washington University</strong>
+  with experience building analytics platforms, data workflows, backend systems,
+  and applied machine learning solutions.
+</p>
 
-M.S. in Data Science from **The George Washington University** with experience building analytics platforms, data workflows, backend systems, and applied machine learning solutions.
+<p align="center">
+  Interested in data analytics, data engineering, business intelligence,
+  and practical AI systems.
+</p>
 
-My interests include data analytics, data engineering, business intelligence, and practical AI systems.
+<!-- CORE TECHNOLOGIES -->
 
-<br>
-
-<img
-  src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,docker,kafka,fastapi,react&theme=dark"
-  alt="Python, PostgreSQL, MySQL, AWS, Docker, Kafka, FastAPI, and React"
-/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/sharonjoanna/">
+<p align="center">
   <img
-    src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Connect with Sharon Joanna on LinkedIn"
+    src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,docker,kafka,fastapi,react&theme=dark"
+    alt="Python, PostgreSQL, MySQL, AWS, Docker, Kafka, FastAPI, and React"
   />
-</a>
-
-</div>
+</p>
 
 <br>
 
-<details>
-<summary><strong>Selected Work</strong></summary>
+<!-- CUSTOM DATA-FLOW ANIMATION -->
 
-<br>
-
-**RelayOps**  
-AI-assisted operations platform for order, inventory, approval, and maintenance workflows.
-
-**PulseBI**  
-Self-service business intelligence platform with automated KPIs, forecasting, anomaly detection, and data-quality validation.
-
-**RevenueLens AI**  
-Healthcare analytics system for identifying reimbursement gaps and potential revenue leakage.
-
-</details>
-
-<br>
-
-<!-- Matching animated footer -->
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer&animation=fadeIn"
-    alt=""
+    src="./assets/data-flow.svg"
+    alt="Animated data workflow from raw data to business decisions"
   />
 </p>
