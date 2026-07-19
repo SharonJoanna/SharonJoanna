@@ -1,3 +1,4 @@
+<!-- Animated header -->
 <p align="center">
   <img
     width="100%"
@@ -25,7 +26,7 @@ My interests include data analytics, data engineering, business intelligence, an
 
 <a href="https://www.linkedin.com/in/sharonjoanna/">
   <img
-    src="https://img.shields.io/badge/Connect_on_LinkIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="Connect with Sharon Joanna on LinkedIn"
   />
 </a>
@@ -49,3 +50,14 @@ Self-service business intelligence platform with automated KPIs, forecasting, an
 Healthcare analytics system for identifying reimbursement gaps and potential revenue leakage.
 
 </details>
+
+<br>
+
+<!-- Matching animated footer -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer&animation=fadeIn"
+    alt=""
+  />
+</p>
